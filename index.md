@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Another NGUI 2 Ugui
 
-You can use the [editor on GitHub](https://github.com/avi9111/NGUI2Ugui/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's yet another a new NGUI 2 Ugui Project, it is going to be a easy tools for you, if you just want to dump some ui from your old projects....
 
 ### Markdown
 
