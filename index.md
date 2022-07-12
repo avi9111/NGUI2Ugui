@@ -2,19 +2,21 @@
 
 It's yet another a new NGUI 2 Ugui Project, it is going to be a easy tools for you, if you just want to dump some ui from your old projects....
 
-### Markdown
+### User Case
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I think the most usable user case for ui convert is selectd widget 
 
 ```markdown
-Syntax highlighted code block
+Select UIWidget which is usually create by NGUI
 
-# Header 1
-## Header 2
-### Header 3
+# UIPanel
+## UIImage
+### UIButton
 
-- Bulleted
-- List
+UIButton is "a little" complicated in NUGUI 2.1
+- ButonRect
+- ButtonMessage
+- ButtonScale
 
 1. Numbered
 2. List
